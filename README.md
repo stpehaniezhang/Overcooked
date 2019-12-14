@@ -30,6 +30,3 @@ Level Three
 - Tap the left or the right side of the screen to move the player.
 - Receive six cheese to win the game.
 - Score will decrease by 10 if you receive a bad ingredient (Green square).
-
-* If you cannot run the application for the first time (e.g. NullPointerException),
-  run the program a second time. Android Studio can be buggy.
